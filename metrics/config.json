@@ -1,0 +1,6 @@
+{
+	"accept-ext":[".js"], 
+	"accept-dir":["node_modules"],
+	"accept-function-case":["camel"],
+	"accept-comment":["//","/**"]
+}
